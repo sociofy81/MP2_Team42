@@ -19,3 +19,11 @@
 - `app-frontend`: It contains the frontend part of our code (UI/UX) and has a README file for it (`README.md`).
 - `app-backend`: It contains all the files for relighting and a README file for it (`README.md`) and a documentation for it (`AI_RELIGHT_ENGINE`). It also contains a folder for segmentation (`Masking`).
  - `app-backend/Masking`: It contains all the files for segmentation and also a README file for it (`README.md`) and a associated file for documentation (`AI_SEGMENTATION_ENGINE.md`).
+
+##  Collaborators
+
+| Name | GitHub | Role | Contributions |
+|------|--------|------|----------------|
+| **Harshit Kandpal** | [@Hark-github](https://github.com/Hark-github) | Masking | Entire AI Segmentation Engine (Masking), MobileSAM integration, Backend architecture, Model optimization, API development |
+| **Divyansh Dubey** | [@divyansh1705](https://github.com/divyansh1705) | Relighting | **AI Relighting Engine**, Depth Anything V2 integration, Marigold Normals pipeline, Real-time lighting manipulation (position/color/intensity/specularity), Physically-based shading implementation |
+| **Agastya Nath** | [@agastya-nath123](https://github.com/agastya-nath123) | Fullstack | React Native frontend, UI/UX implementation, Frontend-backend integration, Mobile app development |
